@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+.error{
+  background-color: red;
+  color:white;
+  font-weight: bolder;
+  padding: 10px;
+
+}

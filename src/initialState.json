@@ -1,0 +1,28 @@
+{
+    "allSkiDays":[
+        {
+            "resort" : "resort AAAAA",
+            "date" : "2016-05-8",
+            "powder" : true,
+            "backcountry" : false
+        },
+        {
+            "resort" : "resort BBBBB",
+            "date" : "2016-08-11",
+            "powder" : false,
+            "backcountry" : false
+        },
+        {
+            "resort" : "resort CCCCC",
+            "date" : "2016-12-18",
+            "powder" : false,
+            "backcountry" : true
+        }
+    ],
+    "goal": 10,
+    "errors" : [],
+    "resortsNames" :{
+        "fetching" : false,
+        "suggestions" : ["Squa Valley","Snowbird","Stowe","Steamboat"]
+    }
+}
